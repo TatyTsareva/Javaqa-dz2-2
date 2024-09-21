@@ -1,9 +1,9 @@
-import java.util.Scanner;
+
 
 public class Main {
     public static void main(String[] args) {
         int clientAccount = 100;
-        int rub = 1500;
+        int rub = 100;
         int bonus = (rub / 100);
         int res = (clientAccount + rub + bonus);
 
